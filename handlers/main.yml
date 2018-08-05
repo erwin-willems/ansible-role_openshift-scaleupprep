@@ -1,0 +1,12 @@
+---
+# handlers file for openshift
+
+#- name: restart docker
+#  systemd:
+#    state: restarted
+#    name: docker
+#
+#- name: docker storage setup
+#  command: docker-storage-setup
+
+  
